@@ -1,2 +1,2 @@
 # recess_assignments
-The folders
+The folders morning and afternoon contain the assignment that are done
