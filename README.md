@@ -1,2 +1,2 @@
-# recess_assignments
+# Python, Data science, Machine learning, web development assignments
 The folders morning and afternoon contain the morning and afternoon assignments.
